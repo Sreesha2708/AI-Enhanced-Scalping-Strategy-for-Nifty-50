@@ -1,0 +1,6 @@
+{
+  "name": "ASTRAQUANT X",
+  "description": "AI-Enhanced Scalping Strategy for NIFTY 50 combining VWAP, RSI, Triple Barrier Labeling, and Random Forest Meta-Labeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
